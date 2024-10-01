@@ -1,4 +1,4 @@
-Const accountId=11122;
+const accountId=11122;
 let accountname= "saurav";
 var accountpass=12345;
 //accountId=5555;   //not allowed

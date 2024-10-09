@@ -19,3 +19,10 @@ const myf=function(){
     console.log("hello")
 }
 console.log(typeof myf)
+//memory two types
+// stack         heap
+let name ="saurav"
+let yourname=name
+yourname="ram"
+console.log(name)
+console.log(yourname)

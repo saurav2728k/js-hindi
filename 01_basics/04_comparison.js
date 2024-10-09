@@ -11,7 +11,7 @@ console.log(2>"5")
 console.log("05">2)
 console.log(5>"02")
 console.log("08"==8)
-console.log("next")
+//we should avoid this because of inconsistency 
 console.log(null==0)
 console.log(null>0)
 console.log(null>=0)
